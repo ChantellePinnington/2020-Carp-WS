@@ -29,7 +29,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 
-
+<!--
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
@@ -41,6 +41,7 @@ workshop request yet, please also fill in
 about your workshop and our administrator may contact you if we need any extra
 information.
 </div>
+-->
 
 {% comment %}
 Check DC curriculum
